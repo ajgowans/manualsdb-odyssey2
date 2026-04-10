@@ -1,1 +1,80 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/ODYSSEY2/Manuals/4 in 1 Row.pdf,https://archive.org/download/mister-manuals/4%20in%201%20Row.pdf,833637,dbb24025975feee6d87414b3675d1c78,,,4 in 1 Row.pdf
+docs/ODYSSEY2/Manuals/Air Battle.pdf,https://archive.org/download/mister-manuals/Air%20Battle.pdf,566208,f1af6d720c97b1df8561e8911f5705d1,,,Air Battle.pdf
+docs/ODYSSEY2/Manuals/Alien Invaders - Plus!.pdf,https://archive.org/download/mister-manuals/Alien%20Invaders%20-%20Plus%21.pdf,896768,d42f84be731034d458e7b005000029d3,,,Alien Invaders - Plus!.pdf
+docs/ODYSSEY2/Manuals/Alpine Skiing!.pdf,https://archive.org/download/mister-manuals/Alpine%20Skiing%21.pdf,716199,38a1ec3d5a29aab6933fdc4ae084829e,,,Alpine Skiing!.pdf
+docs/ODYSSEY2/Manuals/Armored Encounter! + Sub Chase!.pdf,https://archive.org/download/mister-manuals/Armored%20Encounter%21%20%2B%20Sub%20Chase%21.pdf,355233,b855f351d4090b0374dc45d9c4d20da3,,,Armored Encounter! + Sub Chase!.pdf
+docs/ODYSSEY2/Manuals/Atlantis.pdf,https://archive.org/download/mister-manuals/Atlantis.pdf,339695,279599341d0f8897a89a65b6374749b8,,,Atlantis.pdf
+docs/ODYSSEY2/Manuals/Attack of the Timelord!.pdf,https://archive.org/download/mister-manuals/Attack%20of%20the%20Timelord%21.pdf,2057205,98f3871afa7738c72a44d7e191e50eb7,,,Attack of the Timelord!.pdf
+docs/ODYSSEY2/Manuals/Backgammon.pdf,https://archive.org/download/mister-manuals/Backgammon.pdf,5944902,48249e08c22d65ce75df9bb111a055cd,,,Backgammon.pdf
+docs/ODYSSEY2/Manuals/Baseball!.pdf,https://archive.org/download/mister-manuals/Baseball%21.pdf,838337,eec8306f73d2faabfbc4ad6d36959c62,,,Baseball!.pdf
+"docs/ODYSSEY2/Manuals/Blobbers, The.pdf",https://archive.org/download/mister-manuals/Blobbers%2C%20The.pdf,839927,26d72404e372f062032a54b3518c9659,,,"Blobbers, The.pdf"
+docs/ODYSSEY2/Manuals/Blockout! + Breakdown!.pdf,https://archive.org/download/mister-manuals/Blockout%21%20%2B%20Breakdown%21.pdf,423034,36c7dabcbe6d61b3b3a0f2fba7c4e5e3,,,Blockout! + Breakdown!.pdf
+docs/ODYSSEY2/Manuals/Bowling! + Basketball!.pdf,https://archive.org/download/mister-manuals/Bowling%21%20%2B%20Basketball%21.pdf,722088,3af55bb3609926e91ca4fad7668b3554,,,Bowling! + Basketball!.pdf
+docs/ODYSSEY2/Manuals/Casino Slot Machine.pdf,https://archive.org/download/mister-manuals/Casino%20Slot%20Machine.pdf,681082,83548e7417c199f383f275c1a5b00abf,,,Casino Slot Machine.pdf
+docs/ODYSSEY2/Manuals/Catch the Ball + Noughts and Crosses.pdf,https://archive.org/download/mister-manuals/Catch%20the%20Ball%20%2B%20Noughts%20and%20Crosses.pdf,658479,ca972aa3c287913dcfe99254925bcb75,,,Catch the Ball + Noughts and Crosses.pdf
+docs/ODYSSEY2/Manuals/Chez Maxime.pdf,https://archive.org/download/mister-manuals/Chez%20Maxime.pdf,1003792,a25ac617a5527552eaadffc69bc2fe78,,,Chez Maxime.pdf
+docs/ODYSSEY2/Manuals/Chinese Logic.pdf,https://archive.org/download/mister-manuals/Chinese%20Logic.pdf,441095,7b3182fd0eeb6da8225bcc6daeda4343,,,Chinese Logic.pdf
+docs/ODYSSEY2/Manuals/Clay Pigeon!.pdf,https://archive.org/download/mister-manuals/Clay%20Pigeon%21.pdf,678410,679c22a128401793cd834f9c54784ec0,,,Clay Pigeon!.pdf
+docs/ODYSSEY2/Manuals/Computer Golf!.pdf,https://archive.org/download/mister-manuals/Computer%20Golf%21.pdf,312088,9e0084c079f6593b2c93334b3af9f1a7,,,Computer Golf!.pdf
+docs/ODYSSEY2/Manuals/Computer Intro.pdf,https://archive.org/download/mister-manuals/Computer%20Intro.pdf,7094766,57d3597a0055a8d04b598c6eb8ed2323,,,Computer Intro.pdf
+docs/ODYSSEY2/Manuals/Conquest of the World.pdf,https://archive.org/download/mister-manuals/Conquest%20of%20the%20World.pdf,4442434,6e71c1146ded28afe379e6c40340cf4f,,,Conquest of the World.pdf
+docs/ODYSSEY2/Manuals/Cosmic Conflict!.pdf,https://archive.org/download/mister-manuals/Cosmic%20Conflict%21.pdf,912257,77ae1e547e794e5a7952bba17f04446a,,,Cosmic Conflict!.pdf
+docs/ODYSSEY2/Manuals/Demon Attack.pdf,https://archive.org/download/mister-manuals/Demon%20Attack.pdf,388668,6ca5c0de70b45e5008418b61445633dc,,,Demon Attack.pdf
+docs/ODYSSEY2/Manuals/Depth Charge + Marksman.pdf,https://archive.org/download/mister-manuals/Depth%20Charge%20%2B%20Marksman.pdf,208351,65c2e44da07e6018429765a626dc7191,,,Depth Charge + Marksman.pdf
+docs/ODYSSEY2/Manuals/Dynasty!.pdf,https://archive.org/download/mister-manuals/Dynasty%21.pdf,348347,3e7c40037f0352025e684a62453915c9,,,Dynasty!.pdf
+docs/ODYSSEY2/Manuals/Electronic Table Soccer!.pdf,https://archive.org/download/mister-manuals/Electronic%20Table%20Soccer%21.pdf,765287,f9fa4606e62014f987b4ab0465e04c65,,,Electronic Table Soccer!.pdf
+docs/ODYSSEY2/Manuals/Exojet+.pdf,https://archive.org/download/mister-manuals/Exojet%2B.pdf,983585,0075f458a1f5f8845393decc3ca5824a,,,Exojet+.pdf
+docs/ODYSSEY2/Manuals/Football!.pdf,https://archive.org/download/mister-manuals/Football%21.pdf,1062144,3e90fcbd80b100aba2d3907e84304a47,,,Football!.pdf
+docs/ODYSSEY2/Manuals/Freedom Fighters!.pdf,https://archive.org/download/mister-manuals/Freedom%20Fighters%21.pdf,1413821,ce69503537e2b63e7d0d1668982caff7,,,Freedom Fighters!.pdf
+docs/ODYSSEY2/Manuals/Frogger.pdf,https://archive.org/download/mister-manuals/Frogger.pdf,1160591,44b8910aefde9e82b182d359aace71bc,,,Frogger.pdf
+"docs/ODYSSEY2/Manuals/Great Wall Street Fortune Hunt, The.pdf",https://archive.org/download/mister-manuals/Great%20Wall%20Street%20Fortune%20Hunt%2C%20The.pdf,3313210,75cf4a19ea99d477b5377acc5aa218fb,,,"Great Wall Street Fortune Hunt, The.pdf"
+docs/ODYSSEY2/Manuals/Hockey! + Soccer!.pdf,https://archive.org/download/mister-manuals/Hockey%21%20%2B%20Soccer%21.pdf,1204984,876ba85694e2155399476beccfded2c9,,,Hockey! + Soccer!.pdf
+docs/ODYSSEY2/Manuals/I_ve Got Your Number.pdf,https://archive.org/download/mister-manuals/I_ve%20Got%20Your%20Number.pdf,283711,680aab4dda2ca749ab258b7c95408c98,,,I_ve Got Your Number.pdf
+docs/ODYSSEY2/Manuals/Invaders from Hyperspace!.pdf,https://archive.org/download/mister-manuals/Invaders%20from%20Hyperspace%21.pdf,310846,5639bfdb9b16c2dc1c9114871c594701,,,Invaders from Hyperspace!.pdf
+docs/ODYSSEY2/Manuals/K.C. Munchkin!.pdf,https://archive.org/download/mister-manuals/K.C.%20Munchkin%21.pdf,580958,3081b69c2622ace9e44bb0288ccaaad7,,,K.C. Munchkin!.pdf
+docs/ODYSSEY2/Manuals/K.C._s Krazy Chase!.pdf,https://archive.org/download/mister-manuals/K.C._s%20Krazy%20Chase%21.pdf,381597,9d0882cc7929cf0ae615cc1c3a48e061,,,K.C._s Krazy Chase!.pdf
+docs/ODYSSEY2/Manuals/Keyboard Creations!.pdf,https://archive.org/download/mister-manuals/Keyboard%20Creations%21.pdf,3208500,b13ba50a559a43560bb7202eb11701d8,,,Keyboard Creations!.pdf
+docs/ODYSSEY2/Manuals/Killer Bees!.pdf,https://archive.org/download/mister-manuals/Killer%20Bees%21.pdf,423311,31b8359450649228eb9f754ff4546b4f,,,Killer Bees!.pdf
+"docs/ODYSSEY2/Manuals/Labyrinth Game, A + Supermind.pdf",https://archive.org/download/mister-manuals/Labyrinth%20Game%2C%20A%20%2B%20Supermind.pdf,509129,01094bb27fd954140f5df2d220935f18,,,"Labyrinth Game, A + Supermind.pdf"
+docs/ODYSSEY2/Manuals/Las Vegas Blackjack!.pdf,https://archive.org/download/mister-manuals/Las%20Vegas%20Blackjack%21.pdf,315033,28af610799fcb0efad870e999ab052c2,,,Las Vegas Blackjack!.pdf
+docs/ODYSSEY2/Manuals/Loony Balloon.pdf,https://archive.org/download/mister-manuals/Loony%20Balloon.pdf,529661,9ec4d1827d59be4d69bc378bfdb88143,,,Loony Balloon.pdf
+docs/ODYSSEY2/Manuals/Matchmaker! + Logix! + Buzzword!.pdf,https://archive.org/download/mister-manuals/Matchmaker%21%20%2B%20Logix%21%20%2B%20Buzzword%21.pdf,412358,0eeffc24d641f2519381ca7d21b468fc,,,Matchmaker! + Logix! + Buzzword!.pdf
+docs/ODYSSEY2/Manuals/Math A Magic! + Echo!.pdf,https://archive.org/download/mister-manuals/Math%20A%20Magic%21%20%2B%20Echo%21.pdf,1176449,8aabcfa685315c10b66da446136655e0,,,Math A Magic! + Echo!.pdf
+docs/ODYSSEY2/Manuals/Mission Impossible + Programmed Trip.pdf,https://archive.org/download/mister-manuals/Mission%20Impossible%20%2B%20Programmed%20Trip.pdf,206439,542fcd48ebeab437d59dfb5a129c90f1,,,Mission Impossible + Programmed Trip.pdf
+docs/ODYSSEY2/Manuals/Monkeyshines!.pdf,https://archive.org/download/mister-manuals/Monkeyshines%21.pdf,658257,e170ad547911bc4a21d728b60cf2f8d9,,,Monkeyshines!.pdf
+docs/ODYSSEY2/Manuals/Morse.pdf,https://archive.org/download/mister-manuals/Morse.pdf,792966,938a29f59ede6249e376e02ab8653b85,,,Morse.pdf
+"docs/ODYSSEY2/Manuals/Mousing Cat, The.pdf",https://archive.org/download/mister-manuals/Mousing%20Cat%2C%20The.pdf,263897,d52edd24c3fbbffceb19c5a5d59a4977,,,"Mousing Cat, The.pdf"
+docs/ODYSSEY2/Manuals/Musician.pdf,https://archive.org/download/mister-manuals/Musician.pdf,1078926,5cc98a613e7bd26549545b80c36ad520,,,Musician.pdf
+docs/ODYSSEY2/Manuals/Neutron Star.pdf,https://archive.org/download/mister-manuals/Neutron%20Star.pdf,490007,ee019a292621ca5e9b1df1d042a7e384,,,Neutron Star.pdf
+docs/ODYSSEY2/Manuals/Newscaster.pdf,https://archive.org/download/mister-manuals/Newscaster.pdf,392000,800aef4f8c226122c7fe667ce16b1aae,,,Newscaster.pdf
+docs/ODYSSEY2/Manuals/Nightmare.pdf,https://archive.org/download/mister-manuals/Nightmare.pdf,541309,ffff6d32d69a3b886d6926f97a19095a,,,Nightmare.pdf
+docs/ODYSSEY2/Manuals/Nimble Numbers Ned.pdf,https://archive.org/download/mister-manuals/Nimble%20Numbers%20Ned.pdf,3497980,5662df42c213926cfc022f752bf05917,,,Nimble Numbers Ned.pdf
+docs/ODYSSEY2/Manuals/Norseman.pdf,https://archive.org/download/mister-manuals/Norseman.pdf,269545,393839e8e5a3da21543b6b9f0f026d0d,,,Norseman.pdf
+docs/ODYSSEY2/Manuals/Out of this World! + Helicopter Rescue!.pdf,https://archive.org/download/mister-manuals/Out%20of%20this%20World%21%20%2B%20Helicopter%20Rescue%21.pdf,359268,2cd3c06da2ac5917d00e0b1af3494aa1,,,Out of this World! + Helicopter Rescue!.pdf
+docs/ODYSSEY2/Manuals/P.T. Barnum_s Acrobats!.pdf,https://archive.org/download/mister-manuals/P.T.%20Barnum_s%20Acrobats%21.pdf,2027691,7ae10d8b7950dfe24a613497bbcdd8c2,,,P.T. Barnum_s Acrobats!.pdf
+docs/ODYSSEY2/Manuals/Pachinko!.pdf,https://archive.org/download/mister-manuals/Pachinko%21.pdf,618935,98c81f1fd2aa663a022f8067d8e95e0a,,,Pachinko!.pdf
+docs/ODYSSEY2/Manuals/Pick Axe Pete!.pdf,https://archive.org/download/mister-manuals/Pick%20Axe%20Pete%21.pdf,541191,bfc399c9c2123d9fe0a8a8689902fbc5,,,Pick Axe Pete!.pdf
+docs/ODYSSEY2/Manuals/Pocket Billiards!.pdf,https://archive.org/download/mister-manuals/Pocket%20Billiards%21.pdf,360948,12ba0fbc4833dd5b2342c6e1c59c17f6,,,Pocket Billiards!.pdf
+docs/ODYSSEY2/Manuals/Popeye.pdf,https://archive.org/download/mister-manuals/Popeye.pdf,663613,30c53dd2aaa508a8d995dfaa007872d7,,,Popeye.pdf
+docs/ODYSSEY2/Manuals/Power Lords!.pdf,https://archive.org/download/mister-manuals/Power%20Lords%21.pdf,976714,11c00016d34eee8fa75347fab2379055,,,Power Lords!.pdf
+docs/ODYSSEY2/Manuals/Q_bert.pdf,https://archive.org/download/mister-manuals/Q_bert.pdf,472524,6b6170c2a443bcba8be36c60ed1101f9,,,Q_bert.pdf
+"docs/ODYSSEY2/Manuals/Quest for the Rings, The.pdf",https://archive.org/download/mister-manuals/Quest%20for%20the%20Rings%2C%20The.pdf,3324265,fe4fc277572951658c693ce7a19e115d,,,"Quest for the Rings, The.pdf"
+docs/ODYSSEY2/Manuals/Secret of the Pharaohs.pdf,https://archive.org/download/mister-manuals/Secret%20of%20the%20Pharaohs.pdf,755073,33c0cf286158a18ba7a9f3bb27883168,,,Secret of the Pharaohs.pdf
+docs/ODYSSEY2/Manuals/Showdown in 2100 A.D..pdf,https://archive.org/download/mister-manuals/Showdown%20in%202100%20A.D..pdf,575330,6315c2dd592c6fbafb68ad7c7835ab30,,,Showdown in 2100 A.D..pdf
+docs/ODYSSEY2/Manuals/Sid the Spellbinder!.pdf,https://archive.org/download/mister-manuals/Sid%20the%20Spellbinder%21.pdf,1856012,b376109e64c4bba4fb3869ba26813310,,,Sid the Spellbinder!.pdf
+docs/ODYSSEY2/Manuals/Smithereens!.pdf,https://archive.org/download/mister-manuals/Smithereens%21.pdf,784565,d73437edc270399a4c0fafe8b4f37089,,,Smithereens!.pdf
+docs/ODYSSEY2/Manuals/Speedway! + Spin-Out! + Crypto-Logic!.pdf,https://archive.org/download/mister-manuals/Speedway%21%20%2B%20Spin-Out%21%20%2B%20Crypto-Logic%21.pdf,336385,20aff9433a3bb24fe802a8eb8811af91,,,Speedway! + Spin-Out! + Crypto-Logic!.pdf
+docs/ODYSSEY2/Manuals/Spider-Man.pdf,https://archive.org/download/mister-manuals/Spider-Man.pdf,844135,850ab165d6fde602063a8dc9f02f8cc4,,,Spider-Man.pdf
+docs/ODYSSEY2/Manuals/Super Bee.pdf,https://archive.org/download/mister-manuals/Super%20Bee.pdf,457321,8c4727207031a16509e6e89b8e25ada3,,,Super Bee.pdf
+docs/ODYSSEY2/Manuals/Super Cobra.pdf,https://archive.org/download/mister-manuals/Super%20Cobra.pdf,484491,8dc38b088e74516cc7123f2868d7e291,,,Super Cobra.pdf
+docs/ODYSSEY2/Manuals/Syracuse.pdf,https://archive.org/download/mister-manuals/Syracuse.pdf,503010,9d84101c4394c6c1b4247da902448550,,,Syracuse.pdf
+docs/ODYSSEY2/Manuals/Take the Money and Run!.pdf,https://archive.org/download/mister-manuals/Take%20the%20Money%20and%20Run%21.pdf,518555,f1a2edf8dcf57167ab16b0f715f88a30,,,Take the Money and Run!.pdf
+docs/ODYSSEY2/Manuals/Thunderball!.pdf,https://archive.org/download/mister-manuals/Thunderball%21.pdf,659960,440566a0e20816ef6f13513d0f78a606,,,Thunderball!.pdf
+docs/ODYSSEY2/Manuals/Trans American Rally.pdf,https://archive.org/download/mister-manuals/Trans%20American%20Rally.pdf,480009,11362ee4f3b0dd6d289ff62ac8e33ddf,,,Trans American Rally.pdf
+docs/ODYSSEY2/Manuals/Turtles!.pdf,https://archive.org/download/mister-manuals/Turtles%21.pdf,374171,f27288a0a3a770842c6b2196020a9a5c,,,Turtles!.pdf
+docs/ODYSSEY2/Manuals/Tutankham.pdf,https://archive.org/download/mister-manuals/Tutankham.pdf,817163,277507cdfd4d8a9f8981f7ffc2846696,,,Tutankham.pdf
+docs/ODYSSEY2/Manuals/Type & Tell.pdf,https://archive.org/download/mister-manuals/Type%20%26%20Tell.pdf,334236,d2e2d1303e4929fee46f11c805dfa552,,,Type & Tell.pdf
+docs/ODYSSEY2/Manuals/UFO!.pdf,https://archive.org/download/mister-manuals/UFO%21.pdf,290895,4bf192ba53dbb1948680d1e40ee64338,,,UFO!.pdf
+docs/ODYSSEY2/Manuals/Volleyball!.pdf,https://archive.org/download/mister-manuals/Volleyball%21.pdf,369581,ed06040f15a342b4869e28e13b970bfe,,,Volleyball!.pdf
+docs/ODYSSEY2/Manuals/War of Nerves!.pdf,https://archive.org/download/mister-manuals/War%20of%20Nerves%21.pdf,334288,f606a6a80d75ae91095c5e8f03955ab1,,,War of Nerves!.pdf
